@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "rWthAoqGmpYvvT6tTVBs63t1cKmxc+qMS+titriv94Y6DoV0wWyeOHw38yZi4GpG65v1BUgsGCLHB9fqgadc0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user1\\Desktop\\פראקטקוד\\CLIproject\\CLIproject\\CLIproject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
